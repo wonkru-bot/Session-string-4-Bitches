@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "userbutt"
+name = "Leos_TG"
 version = "0.1.0"
 description = "Script for generating Telegram Session in telethon or pyrogram"
-authors = ["Mr.Miss <keselekpermen69@gmail.com>"]
+authors = ["its-leo-bitch <trail4bitbot@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
