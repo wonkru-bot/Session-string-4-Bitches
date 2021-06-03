@@ -1,7 +1,10 @@
-### Script to get your telegram Session in telethon and pyrogram.
 
-<a href="https://repl.it/@KeselekPermen/UserButt#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+  #WELCOME BITCHES
 
-This code is part of [UserButt](https://github.com/KeselekPermen69/UserButt) by [Mr.Miss](https://github.com/KeselekPermen69).
+## Script to get your telegram Session in telethon and pyrogram.
 
-Copyleft © [Mr.Miss](https://github.com/KeselekPermen69),  All wrongs reserved.
+<a href="https://repl.it/@Leo7bitch/UserButt#main.py"><img src="https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it" alt="generate_string" /></a>
+
+This code is part of [Leos_TG](https://github.com/wonkru-bot/Session-string-4-Bitches) by [its-leo-bitch](https://github.com/its-leo-bitch).
+
+Copyleft © [LEO...](https://t.me/InlineLeosbot),  All Bitchy ThingzzS reserved.
