@@ -1,4 +1,10 @@
+<h2 align="center"><b>Owner: <a href="https://t.me/InlineLeosbot">Leo's ░ BiTch</a></b></h2>
 
+<br>
+
+<p align="center">
+
+   <a href="https://github.com/wonkru-bot/my-vertion-of-Userge-x"><img src="https://telegra.ph/file/e76d40ed899c2abd87209.jpg" alt="Userge-x" width=400px></a>
   #WELCOME BITCHES
 
 ## Script to get your telegram Session in telethon and pyrogram.
