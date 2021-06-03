@@ -1,4 +1,4 @@
-# Copyleft (c) 2020 Mr.Miss, All wrongs reserved.
+# Copyleft (c) 2021, All Bitchy ThingzzS reserved.
 #
 # Redistribution and use in source with or
 # without modufication, are permitted.
@@ -26,11 +26,11 @@ tutor = """
 """
 
 template = """
-UserBot support: @userbotindo
+Bitches 💃 support: @Leo_BITCH_USERBOT
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
-⚠️ <b>Please be carefull to pass this value to third parties</b>"""
+⚠️ <b>DON'T SHARE THIS FUCKING FUCKIE... BITCH</b>"""
 
 
 print(docs)
@@ -65,7 +65,7 @@ while select != ("p", "t"):
             print("\nGenerating String session...\n")           
             pyrogram.send_message("me", saved_messages_template, parse_mode="html")
             time.sleep(1) 
-            print("Your STRING_SESSION value have been sent to your Telegram Saved Messages")
+            print("Your STRING_SESSION Bitch value have been sent to your Telegram Saved Messages")
         break
     
     else:
