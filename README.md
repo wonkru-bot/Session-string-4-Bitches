@@ -7,7 +7,7 @@
    <p align="center"><a href="https://github.com/wonkru-bot/my-vertion-of-Userge-x"><img src="https://telegra.ph/file/e76d40ed899c2abd87209.jpg" alt="Leos_TG" width=400px></a>
   
       
-      #WELCOME BITCHES= USE IT,  
+      #WELCOME BITCHES= USE IT, 💯 Safe 🌀
 
 ## Script to get your telegram Session in telethon and pyrogram.
 
